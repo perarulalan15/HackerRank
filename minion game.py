@@ -2,9 +2,9 @@ def minion_game(string):
     string=string.upper()
     kevin=stuart=0
     l=len(string)
-    for i, char in enumerate(string):
+    for i, j in enumerate(string):
         p=l-i
-        if char in {"A","E","I","O","U"}:
+        if j in {"A","E","I","O","U"}:
             kevin += p
         else:
             stuart += p
