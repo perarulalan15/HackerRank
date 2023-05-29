@@ -1,3 +1,3 @@
 # python
 
-This is a solved programs in HackerRank
+This is a solved problems in HackerRank
